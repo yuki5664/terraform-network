@@ -1,3 +1,4 @@
+* terraform練習用
 # init
 
 1. AWSのマネジメントコンソールで、tfstate用のbucketを作成。
